@@ -1,2 +1,4 @@
 ﻿  Vjezba2.c
+c:\users\jakov\onedrive\desktop\ako je je\project20\project20\vjezba2.c(237): warning C4715: 'pronalazakPret': not all control paths return a value
+c:\users\jakov\onedrive\desktop\ako je je\project20\project20\vjezba2.c(212): warning C4715: 'pronalazak': not all control paths return a value
   Project20.vcxproj -> C:\Users\jakov\OneDrive\Desktop\Ako je je\Project20\Debug\Project20.exe
